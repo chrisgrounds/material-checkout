@@ -2,6 +2,38 @@
   text-align: center;
 }
 
+.App {
+  width: 100%;
+  padding: 50px 0;
+  background-color: #E4E6E3;
+  color: #58595b;
+}
+
+.AppContent {
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.img {
+  max-height: 100%;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+.CartItemImage {
+  width: 128px;
+  height: 128px;
+}
+
+.DeleteIcon {
+  color: red;
+}
+
+.AddressForm {
+  margin-bottom: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
